@@ -17,6 +17,7 @@ chmod +x ./install.sh
 ./install.sh
 ```
 
+B. step by step process
 1. Create and activate a virtual environment
 
 ```bash
