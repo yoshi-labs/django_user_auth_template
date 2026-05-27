@@ -11,12 +11,6 @@ Minimal, production-ready Django authentication template using JWT (DRF + Simple
 
 ## Quick start
 
-A. Run the setup fileby following:
-```bash
-chmod +x ./install.sh
-./install.sh
-```
-
 1. Create and activate a virtual environment
 
 ```bash
